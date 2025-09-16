@@ -19,3 +19,5 @@ This project predicts car prices using different machine learning models:
 2. Install requirements:
    ```bash
    pip install -r requirements.txt
+
+![Model Comparison](model_comparison.png)
